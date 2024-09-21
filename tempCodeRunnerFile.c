@@ -1,1 +1,0 @@
-  // printf("Enter the value of %d row and %d column for matrix b\n",i,j);
